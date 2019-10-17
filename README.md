@@ -12,7 +12,7 @@ The hope is to have a future where the following scenario could play out:
 > Kim is playing the new hit MMO, _Wicked Wizard Party_. 
 > Kim defeats a powerful wizard, receiving a _Wizard Hat_ as a reward. Kim equips the _Wizard Hat_, which grants +5 intellect, making Kims' spells more powerful. 
 
-> Kim later logs in the social meetup platform, _VRChitChat_. Kims' avatar dons the Wizard Hat in this world as well. As there are no RPG elements to VRChitChat, the +5 intellect bonus has no effect. 
+> Kim later logs in on the social meetup platform, _VRChitChat_. Kims' avatar dons the Wizard Hat in this world as well. As there are no RPG elements to VRChitChat, the +5 intellect bonus has no effect. 
 
 > Before bed, Kim wants to play some _Angry Battle Soldiers_ on the living room games console. Before going into battle, Kim switches out the _Wizard Hat_ for a _Protective Helmet_. While intellect does slightly improve Control Point capping speed in this game, Kim decides the bonus armor of the _Protective Helmet_ is more beneficial. 
 
@@ -21,7 +21,7 @@ The "metaverse" future is inevitable, and it will hopefully be:
 * Open source
 * (Mainly) decentralized
 * Owned by noone
-* Easy to implement for developers of virtual worlds
+* Easy to implement for developers
 
 # Technology
 _Everything below is a work in progress_
